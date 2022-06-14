@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width](https://scontent.fqnv8-1.fna.fbcdn.net/v/t1.6435-9/76771521_1162683653939328_203297732880760832_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=IDwUjB71OCsAX-tXI7V&_nc_oc=AQme-6rc7e7ssM0uhW553hz331T6r0F8rzrCkv4HPYhZqcNWIh2qpJK1FPRNMueRPck&_nc_ht=scontent.fqnv8-1.fna&oh=00_AT8lCoLvW2gqg4A5E_nmdDqnUBpxINNoGEV5_ioANh4ARw&oe=62CEEE14)=676&height=676">
+  <img align="right" alt="Dan-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/9seI1gO.jpg=width=676&height=676">
 </div>
   
   ##
